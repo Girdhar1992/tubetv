@@ -1,0 +1,6 @@
+{
+  "name": "TubeTV",
+  "description": "A YouTube companion app for Android TV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
